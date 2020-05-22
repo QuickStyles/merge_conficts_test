@@ -1,5 +1,5 @@
 function multiply(y, x) {
-	y + x;
+  y + x;
 }
 
 function add(a, b) {
@@ -12,7 +12,8 @@ function divide(a, b) {
 }
 
 function squared(a, b) {
-  return a ** b;
+  return a * b;
+  console.log('this is wrong');
 }
 
 function perimeter() {}
