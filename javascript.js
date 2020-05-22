@@ -11,8 +11,14 @@ function squared(a, b) {
   console.log('this is wrong');
 }
 
-function perimeter() {}
+function perimeter() {
+  console.log('this is a perimeter');
+}
 
 function subtract(a, b) {
   return a - b;
+}
+
+function sayHello() {
+  console.log('hello');
 }
