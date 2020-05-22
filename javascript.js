@@ -1,22 +1,20 @@
-function subtract(a, b) {
-	return a - b;
-}
-
 function multiply(y, x) {
 	y + x;
 }
 
+function add(a, b) {
+  a = a + 1;
+  return a + b;
+}
+
 function divide(a, b) {
-	a - b;
+  return a / b;
 }
 
-function square(z,y) {
-	z * y;
+function squared(a, b) {
+  return a ** b;
 }
 
-function perimeter(a) {
-	a * 5
-}
-
-funciton add(a, b) {
+function perimeter() {
+  console.log('I have no idea what this does.');
 }
