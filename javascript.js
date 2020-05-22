@@ -2,11 +2,6 @@ function multiply(y, x) {
   y + x;
 }
 
-function add(a, b) {
-  a = a + 1;
-  return a + b;
-}
-
 function divide(a, b) {
   return a / b;
 }
