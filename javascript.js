@@ -17,6 +17,8 @@ function squared(a, b) {
   return a ** b;
 }
 
-function perimeter() {
-  console.log('I have no idea what this does.');
+function perimeter() {}
+
+function subtract(a, b) {
+  return a - b;
 }
