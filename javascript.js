@@ -4,3 +4,15 @@ function add(a, b) {
 }
 
 // brandons code
+
+function multiply(a, b) {
+  return a * b;
+}
+
+function divide(a, b) {
+  return a / b;
+}
+
+function squared(a, b) {
+  return a ** b;
+}
